@@ -5,13 +5,16 @@ I used firebase authentication in my app.
 ## Overview 
 
 # Sign In Page
-![Sign-In Page](samples/signinpage.png)
+ <img src="samples/signinpage.png" width="300">
 
 # Sign Up Page
-![Sign-Up Page](samples/signuppage.png)
+<img src="samples/signuppage.png" width="300">
 
-# Sign In
-![Sign-In GIF](samples/signin.gif)
 
-# Sign Up
-![Sign-In GIF](samples/signup.gif)
+# Sign In (Working)
+<img src="samples/signin.gif" width="300">
+
+
+# Sign Up (Working)
+<img src="samples/signin.gif.png" width="300">
+
