@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503576736014",
+    "firebase_url": "https://heythere-53351.firebaseio.com",
+    "project_id": "heythere-53351",
+    "storage_bucket": "heythere-53351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503576736014:android:87f81e179435884601a75f",
+        "android_client_info": {
+          "package_name": "uditmaherwal.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503576736014-dmpgufjve2sos24ac28v5fn0d4vgfrsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4OMWsvgyFZyRMFjQMbYdtT_LkMqQ14ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503576736014-dmpgufjve2sos24ac28v5fn0d4vgfrsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
