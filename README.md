@@ -16,5 +16,5 @@ I used firebase authentication in my app.
 
 
 # Sign Up (Working)
-<img src="samples/signin.gif.png" width="300">
+<img src="samples/signup.gif" width="300">
 
