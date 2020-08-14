@@ -11,10 +11,10 @@ I used firebase authentication in my app.
 <img src="samples/signuppage.png" width="300">
 
 
-# Sign In (Working)
+# Sign In (Demo)
 <img src="samples/signin.gif" width="300">
 
 
-# Sign Up (Working)
+# Sign Up (Demo)
 <img src="samples/signup.gif" width="300">
 
